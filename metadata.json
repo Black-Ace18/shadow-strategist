@@ -1,0 +1,7 @@
+{
+  "name": "Shadow Strategist",
+  "description": "A cyberpunk-themed chess game with custom piece identities and voice-controlled tactical movement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
