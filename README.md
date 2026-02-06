@@ -15,7 +15,7 @@ It is a **command-driven tactical system** designed for immersion, speed, and na
 - **Stability**: Production-ready  
 - **Deployment**: Live  
 - **Hosting Network**: Netlify 
-- **Access URL**: https://your-deployment-link.vercel.app
+- **Access URL**: https://shadowstrategist.netlify.app/
 
 ---
 
