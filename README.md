@@ -84,3 +84,12 @@ git clone https://github.com/YourUsername/shadow-strategist.git
 cd shadow-strategist
 npm install
 npm run dev
+```
+## Visual Representation
+
+<br>
+
+<p align="center">
+  <img src="./shadow.png" alt="Portal Screenshot">
+</p>
+
